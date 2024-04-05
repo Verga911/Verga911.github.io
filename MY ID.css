@@ -1,0 +1,48 @@
+*, html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: skyblue;
+}
+.kepala{
+	background-color: #FF00FF;
+	
+	height: 80;
+	border: 5px solid black;
+}
+.ul1{
+	
+	list-style-type:none;
+	height: 80px;
+	justify-content: center;
+	align-items: center;
+	display: flex;	
+}
+.li1:hover{
+	background-color: silver;
+	transition: .4s ease-in-out;
+	transition-delay: ;: : .3s;
+	border-radius: 8px;
+}
+.li1{
+	
+	list-style-type:none;
+	padding: 15px;
+	margin: 5px;
+	color: white;
+	font-size:30px ;
+}
+.img{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.what{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.link{
+color: white;
+}

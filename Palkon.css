@@ -1,0 +1,72 @@
+*, html{
+	margin: 0;
+	padding: 0;
+
+}
+.utama{
+	height: 100vh;
+	background-color: skyblue ;
+}
+
+.kepala{
+	background-color: #FF00FF;
+	
+	height: 80;
+	border: 5px solid black;
+}
+h2{
+	background-color: green;
+}
+
+.ul1{
+	
+	list-style-type:none;
+	height: 80px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+
+}
+
+.li1{
+	
+	list-style-type:none;
+	padding: 15px;
+	margin: 5px;
+	color: white;
+	font-size:30px ;
+}
+.li1:hover{
+	background-color: silver;
+	transition: .4s ease-in-out;
+	transition-delay: ;: : .3s;
+	border-radius: 8px;
+}
+
+.img{
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.padding{
+width: 30%;
+height: 30%;
+}
+
+
+.manuk{
+display: flex;
+align-items: center;
+justify-content: center;}
+.palkon{
+	color: white;
+}
+.palkon:hover{
+	background-color: black;
+	color: yellow;
+	transition: .5s;
+}
+.link{
+color: white;
+}
